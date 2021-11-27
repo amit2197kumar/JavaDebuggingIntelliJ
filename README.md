@@ -151,3 +151,5 @@ So either you can go back, or RIGHT click and select DROP FRAME to rewind!
 3. [Debugger basics in IntelliJ IDEA (Mala Gupta)](https://youtu.be/lAWnIP1S6UA) 
 4. [Advanced Debugger Features in IntelliJ IDEA (Mala Gupta)](https://youtu.be/AOrnx-9zNBQ)
 5. [IntelliJ IDEA. Debugger Essentials (2021)](https://youtu.be/59RC8gVPlvk)
+
+[My Course Certificate](https://www.udemy.com/certificate/UC-280cf778-708a-4326-b9df-b2e6c97050d5/) :) 
